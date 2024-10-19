@@ -18,6 +18,27 @@ This is a simple Task Management Application built with Next.js and React that a
 
 
 
+## Installation
+
+Installation
+Follow the steps below to get the app running locally:
+
+Clone the repository:
+git clone https://github.com/yourusername/task-management-app.git
+
+Navigate to the project folder:
+cd task-management-app
+
+Install dependencies:
+npm install
+Install React Bootstrap:
+Run the following command to add React Bootstrap:
+npm install react-bootstrap bootstrap
+
+Run the App
+Start the development server:
+npm run dev
+    
 ## Features
 
 1. Add a New Task: Users can add tasks with a title, description, and priority (high, medium, low).
